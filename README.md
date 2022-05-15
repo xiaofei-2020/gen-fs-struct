@@ -4,6 +4,7 @@
 ```bash
 node .\index.js [具体路径]
 ```
+打印结果如下：
 
 ```
 my-app
